@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.7f3e2d06.css",
-    "main.js": "/static/js/main.60a70302.js",
+    "main.js": "/static/js/main.d3de8a89.js",
     "static/media/fehmi_sener_cv.pdf": "/static/media/fehmi_sener_cv.119bd14c71b3170d4c68.pdf",
     "static/media/my_photo.jfif": "/static/media/my_photo.4202444de45ca67f190e.jfif",
     "index.html": "/index.html",
     "main.7f3e2d06.css.map": "/static/css/main.7f3e2d06.css.map",
-    "main.60a70302.js.map": "/static/js/main.60a70302.js.map"
+    "main.d3de8a89.js.map": "/static/js/main.d3de8a89.js.map"
   },
   "entrypoints": [
     "static/css/main.7f3e2d06.css",
-    "static/js/main.60a70302.js"
+    "static/js/main.d3de8a89.js"
   ]
 }
